@@ -4,7 +4,7 @@
 
 # Introduction
 
-This project focuses on predicting whether there are anomalies in working of the machines using Machine Learning models. There are three efficiency status to be predicted, high, medium and low.
+This project focuses on predicting whether there are anomalies in working of the machines using Machine Learning models. There are three efficiency status of the machine to be predicted=> high, medium and low.
 
 # Dataset
 
