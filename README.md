@@ -8,8 +8,7 @@ This project focuses on predicting whether there are anomalies in working of the
 
 # Dataset
 
-
-
+![image](https://github.com/user-attachments/assets/9de8030e-360d-44a1-9fee-d9a79f7f7f8e)
 
 # Flow of pipeline
 
